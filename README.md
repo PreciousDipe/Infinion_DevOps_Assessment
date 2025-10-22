@@ -1,5 +1,7 @@
 # Infinion_DevOps_Assessment
 
+![status badge](https://github.com/PreciousDipe/Infinion_DevOps_Assessment/actions/workflows//test.yml/badge.svg)
+
 ## Self-Hosted GitHub Actions Runner Setup
 
 ## Overview
@@ -86,6 +88,10 @@ jobs:
 
 **Step6** Tested the workflow and ensured all tests pass, then checked that the job process running locally shows all processes ended successfully.
 ![](/assets/3.png)
+
+![](/assets/4.png)
+
+*Image of the job running on the self-hosted runner and passing successfully* 
 
 ## Challenges Faced and Solutions
 
